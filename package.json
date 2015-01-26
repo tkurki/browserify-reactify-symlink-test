@@ -1,0 +1,16 @@
+{
+  "name": "browserify-reactify-symlink-test",
+  "version": "1.0.0",
+  "description": "Demonstration project to illustrate problem with reactify & symlinking node_modules/app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tjk@iki.fi",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^8.1.1",
+    "react": "^0.12.2",
+    "reactify": "^1.0.0"
+  }
+}
